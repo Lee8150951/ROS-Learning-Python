@@ -1,0 +1,8 @@
+prefix=/home/jacob/Desktop/ROSWorkspace-Python/install
+
+Name: topic
+Description: Description of topic
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/Desktop/ROSWorkspace-Python/install/lib 
+Requires: 
